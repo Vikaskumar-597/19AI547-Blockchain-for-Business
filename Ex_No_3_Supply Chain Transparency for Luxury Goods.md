@@ -64,5 +64,19 @@ Helps prevent counterfeit luxury goods.
 
 Teaches real-world supply chain use cases.
 
+# Output:
+<img width="1302" height="563" alt="Screenshot 2025-11-06 143805" src="https://github.com/user-attachments/assets/2327c183-c372-445c-926d-d4df461fde91" />
+
+
+### Initial Owner :
+
+<img width="196" height="498" alt="Screenshot 2025-11-06 143811" src="https://github.com/user-attachments/assets/c5dc2b26-06f0-4b63-849b-1b813e691f8f" />
+
+
+### Transfer owner ship:
+
+<img width="195" height="542" alt="Screenshot 2025-11-06 143852" src="https://github.com/user-attachments/assets/12a5880e-3bff-4b17-9761-89f9ae752364" />
+
 # RESULT : 
+Thus the smart contract that tracks the supply chain of luxury goods, ensuring authenticity is executed successfully
 
