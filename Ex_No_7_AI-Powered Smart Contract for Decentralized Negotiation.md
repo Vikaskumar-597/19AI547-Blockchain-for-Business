@@ -114,6 +114,19 @@ Can be extended to AI oracles for real-time market data.
 
 Inspired by AI-enhanced commerce and eBay-like decentralized auctions.
 
+# Output :
+
+<img width="1312" height="567" alt="Screenshot 2025-11-06 223456" src="https://github.com/user-attachments/assets/82d3dfe5-65a0-4f2e-8de8-c7900e32bc3e" />
+
+### The item is sold due to Reasonable Price:
+
+<img width="199" height="480" alt="Screenshot 2025-11-06 223508" src="https://github.com/user-attachments/assets/ea8d964e-d4b5-42e2-91b0-fb9377998134" />
+
+### The item is not sold due to low price from the base price:
+
+<img width="200" height="489" alt="Screenshot 2025-11-06 223734" src="https://github.com/user-attachments/assets/c145f597-82c6-4b55-88c6-0dcb493aceb4" />
+
 # RESULT:
+Thus to create a smart contract that integrates AI logic for automated negotiation in decentralized commerce is executed successfully.
 
 
